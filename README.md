@@ -52,7 +52,7 @@ For more info please see the detailed installation guide [here.](https://docs.do
 
 #### Step 4: Setup and run TANNER
 
-1. Get TANNER: `git clone https://github.com/mushorg/tanner.git`
+1. Get TANNER: `git clone https://github.com/phanpot-ce/tanner.git`
 2. Go to the TANNER source  directory: ``cd tanner``
 3. Install requirements: `sudo pip3 install -r requirements.txt`
 4. Install TANNER: ``sudo python3 setup.py install``

@@ -29,7 +29,7 @@ Setup PHP Sanbox
 Setup and run TANNER
 """"""""""""""""""""
 
-#. Get TANNER: ``git clone https://github.com/mushorg/tanner.git``
+#. Get TANNER: ``git clone https://github.com/phanpot-ce/tanner.git``
 #. Go to the tanner source directory ``cd tanner``
 #. Install requirements: ``sudo pip3 install -r requirements.txt``
 #. Install tanner ``sudo python3 setup.py install``

@@ -2,7 +2,7 @@ version: '2.3'
 
 networks:
   tanner_local:
-
+    external: true
 services:
 
 # Tanner Redis Service
